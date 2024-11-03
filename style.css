@@ -1,0 +1,26 @@
+h1{
+    color: blue;
+    font-style: oblique;
+    font-family:'Times New Roman', Times, serif;
+}
+html{
+    background-color:lightgray;
+}
+h2{
+    color: blue;
+}
+h3{
+    color: blue;
+}
+ul{
+    color: rgb(61, 61, 61);
+}
+h5{
+    color: rgb(61, 61, 61);
+}
+p{
+    color: rgb(61, 61, 61);
+}
+span{
+    color: rgb(61, 61, 61);
+}
