@@ -1,16 +1,14 @@
 h1{
-    color: blue;
+    color: rgb(68, 68, 199);
     font-style: oblique;
     font-family:'Times New Roman', Times, serif;
 }
-html{
-    background-color:lightgray;
-}
+
 h2{
-    color: blue;
+    color: rgb(68, 68, 199);
 }
 h3{
-    color: blue;
+    color: rgb(68, 68, 199);
 }
 ul{
     color: rgb(61, 61, 61);
@@ -23,4 +21,7 @@ p{
 }
 span{
     color: rgb(61, 61, 61);
+}
+a{
+    color: red;
 }
